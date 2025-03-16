@@ -1,0 +1,14 @@
+sort1 uses: Bubble sort.
+
+How do you know?: It had the worst performance in all cases, with a considerable worsening in larger cases (50000).
+
+sort2 uses: Merge sort.
+
+How do you know?: It had the best results and these results remained consistent when sorting large amounts of data.
+
+sort3 uses: Selection sort.
+
+How do you know?: it remained slower than merge sort, but it was consistent when analyzing large volumes of data and benefited from the numbers already sorted.
+
+
+
